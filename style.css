@@ -39,18 +39,12 @@ h2  {
   font-size: small;
 }
 
-/* h3{
-  text-align: left;
-  font-weight: bold;
-  color: black;
-  font-size: small;
-} */
-
 h4  {
   text-align: right;
   font-weight: transparent;
   color: gray;
   font-size: small;
+}
 
 #author-img {
   float: left;
@@ -90,7 +84,7 @@ button:hover{
 }
 
 #bottom{
+  float: center;
   display: block;
-  border: 1px dotted black;
   text-align: center;
 }
