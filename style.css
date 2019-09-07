@@ -25,9 +25,32 @@ html{
   margin-bottom: 10px;
 }
 
-main{
-  height: 1000px;
+h1  {
+  text-align: left;
+  font-weight: bold;
+  color: black;
+  font-size: 90px;
 }
+
+h2  {
+  text-align: left;
+  font-weight: transparent;
+  color: gray;
+  font-size: small;
+}
+
+/* h3{
+  text-align: left;
+  font-weight: bold;
+  color: black;
+  font-size: small;
+} */
+
+h4  {
+  text-align: right;
+  font-weight: transparent;
+  color: gray;
+  font-size: small;
 
 #author-img {
   float: left;
