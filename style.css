@@ -51,6 +51,7 @@ h4  {
   font-weight: transparent;
   color: gray;
   font-size: small;
+}
 
 #author-img {
   float: left;
@@ -93,4 +94,8 @@ button:hover{
   display: block;
   border: 1px dotted black;
   text-align: center;
+}
+
+#printer  {
+  float: right;
 }
