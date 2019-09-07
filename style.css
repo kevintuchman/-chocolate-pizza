@@ -1,0 +1,25 @@
+header{
+  width: 960px;
+  margin: auto;
+}
+
+#logo {
+  float:left;
+  width : 240px;
+  height: 75px;
+}
+
+.navlinks{
+  margin-top:10px;
+  float: right; 
+}
+
+#seperate{
+  margin-right:5px;
+}
+
+#heading-break {
+  background-image: url(/image/hr-img.png);
+  background-repeat: repeat repeat;
+  clear:left;
+}
